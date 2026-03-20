@@ -1,0 +1,2 @@
+# Bachelor_Thesis-Generating_Parity_Check_Matrices_based_on_Degree_Distributions
+Optimizing LDPC codes via node degree distributions. Features a Python/NumPy framework for synthesizing large parity-check matrices based on IRA code research. Includes h5py-based matrix visualization and validation against fractional edge models to ensure reliable data transfer in modern digital communication systems.
